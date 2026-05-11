@@ -19,7 +19,7 @@
 
 Name:		coolercontrol
 Summary:	Cooling device control for Linux
-Version:	4.2.1
+Version:	4.3.0
 Release:	1
 License:	GPL-3.0-or-later
 Group:		System/Monitoring

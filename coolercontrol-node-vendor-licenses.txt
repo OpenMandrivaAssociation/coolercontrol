@@ -7,7 +7,7 @@ name                           license type  installed version  link
 @vue-flow/controls             MIT           1.1.3              git+https://github.com/bcakmakoglu/vue-flow/packages/plugins/controls
 @vue-flow/core                 MIT           1.48.2             git+https://github.com/bcakmakoglu/vue-flow.git
 @vue-flow/minimap              MIT           1.5.4              git+https://github.com/bcakmakoglu/vue-flow/packages/plugins/minimap
-axios                          MIT           1.15.0             git+https://github.com/axios/axios.git
+axios                          MIT           1.15.2             git+https://github.com/axios/axios.git
 axios-retry                    Apache-2.0    4.5.0              git+https://github.com/softonic/axios-retry.git
 class-transformer              MIT           0.5.1              git+https://github.com/typestack/class-transformer.git
 d3-scale                       ISC           4.0.2              git+https://github.com/d3/d3-scale.git
@@ -27,7 +27,7 @@ reflect-metadata               Apache-2.0    0.2.2              git+https://gith
 tailwindcss-primeui            MIT           0.4.0              git+https://github.com/primefaces/tailwindcss-primevue.git
 ts-enum-util                   MIT           4.1.0              git+https://github.com/UselessPickles/ts-enum-util.git
 uplot                          MIT           1.6.32             git+https://github.com/leeoniya/uPlot.git
-uuid                           MIT           13.0.0             git+https://github.com/uuidjs/uuid.git
+uuid                           MIT           14.0.0             git+https://github.com/uuidjs/uuid.git
 v-onboarding                   MIT           2.12.2             git+https://github.com/fatihsolhan/v-onboarding.git
 vite-plugin-package-version    MIT           1.1.0              git+https://github.com/smnhgn/vite-plugin-package-version.git
 vue                            MIT           3.5.31             git+https://github.com/vuejs/core.git
@@ -35,5 +35,5 @@ vue-color                      n/a           3.3.3              git+https://gith
 vue-draggable-plus             MIT           0.6.1              git+https://github.com/Alfred-Skyblue/vue-draggable-plus.git
 vue-echarts                    MIT           8.0.1              git+https://github.com/ecomfe/vue-echarts.git
 vue-fullscreen                 MIT           3.1.3              git+https://github.com/mirari/vue-fullscreen.git
-vue-i18n                       MIT           11.3.2             git+https://github.com/intlify/vue-i18n.git
-vue-router                     MIT           5.0.4              git+https://github.com/vuejs/router.git
+vue-i18n                       MIT           11.4.0             git+https://github.com/intlify/vue-i18n.git
+vue-router                     MIT           5.0.6              git+https://github.com/vuejs/router.git

@@ -1,5 +1,5 @@
 sources:
-  coolercontrol-4.2.1.tar.gz: 336bca79d2a180c2f7607aca4f8567e0bce0a5bf
-  coolercontrol-4.2.1-vendor.tar.xz: de783fecaba00fd8b5d9a4d5ad3bdc60c0391ffd
-  coolercontrol-4.2.1-node-vendor-x86_64.tar.xz: 6549c5a306d6415fb66e9df691c1e5dc74bd3e0e
-  coolercontrol-4.2.1-node-vendor-aarch64.tar.xz: cc93c033baeb15e9f4dcd5e55e2d9a5001141fd5
+  coolercontrol-4.3.0.tar.gz: 7f20c186741ac052078f1890c96cada78143631a
+  coolercontrol-4.3.0-vendor.tar.xz: 2fac6403de3683b83fce61c6eee8c010ef054dc7
+  coolercontrol-4.3.0-node-vendor-x86_64.tar.xz: 9bc3b70737760a31b1d1a72de152948a683c7cb4
+  coolercontrol-4.3.0-node-vendor-aarch64.tar.xz: 00a077873c9cdc70f8df4caa45908a39e3645688
